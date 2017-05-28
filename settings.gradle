@@ -1,0 +1,1 @@
+include ':app', ':fast4android-annotations', ':fast4android', ':fast4android-compiler'
